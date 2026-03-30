@@ -30,8 +30,8 @@ maintainers = [
 name = "OpenStudioLandscapes-Dagster-Streaming-Process"
 requires-python = ">=3.11"
 
-[project.entry-points]
-
+#[project.entry-points]
+#
 #[project.optional-dependencies]
 #dev = [
 #    "OpenStudioLandscapesUtil-VersionBumper @ git+https://github.com/michimussato/OpenStudioLandscapesUtil-VersionBumper.git",
@@ -64,9 +64,6 @@ requires-python = ">=3.11"
 [project.readme]
 content-type = "text/markdown; charset=UTF-8"
 file = "README.md"
-
-#[project.scripts]
-#openstudiolandscapes = "OpenStudioLandscapes.cli:run"
 
 [project.urls]
 Homepage = "https://github.com/michimussato/OpenStudioLandscapes-Dagster-Streaming-Process"
