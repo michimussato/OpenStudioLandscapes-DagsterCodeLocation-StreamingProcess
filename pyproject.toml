@@ -27,7 +27,7 @@ license-files = [
 maintainers = [
     { email = "michimussato@gmail.com", name = "Michael Mussato" },
 ]
-name = "OpenStudioLandscapes.DagsterCodeLocation.StreamingProcess"
+name = "OpenStudioLandscapes-DagsterCodeLocation-StreamingProcess"
 requires-python = ">=3.11"
 
 [project.readme]
